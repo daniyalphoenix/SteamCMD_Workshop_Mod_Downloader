@@ -1,0 +1,27 @@
+force_install_dir ./
+login username password
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+logout
+force_install_dir ./
+login username password
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+workshop_download_item 221100 STEAMWORKSHOPITEMID validate
+logout
+exit
